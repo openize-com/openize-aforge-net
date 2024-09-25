@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <VersionNumber Condition="'$(VersionNumber)' == '' ">24.9</VersionNumber>
+    <DrwVersion Condition="'$(DrwVersion)' == '' ">24.8.0</DrwVersion>
+	<GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+	    <Version>$(VersionNumber)</Version>
+    <PackAsTool>False</PackAsTool>
+    <SignAssembly Condition="Exists('..\Aspose.Certificates\Aspose.snk')">True</SignAssembly>
+    <AssemblyOriginatorKeyFile Condition="Exists('..\Aspose.Certificates\Aspose.snk')">..\Aspose.Certificates\Aspose.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>False</DelaySign>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Drawing" Version="$(DrwVersion)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\FileFormat.AForge.Core.NetStandard.csproj" />
+    <ProjectReference Include="..\Math\FileFormat.AForge.Math.NetStandard.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

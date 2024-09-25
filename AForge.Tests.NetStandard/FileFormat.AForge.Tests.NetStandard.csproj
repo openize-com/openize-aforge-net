@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sources\Core\FileFormat.AForge.Core.NetStandard.csproj" />
+    <ProjectReference Include="..\Sources\imaging\FileFormat.AForge.Imaing.NetStandard.csproj" />
+    <ProjectReference Include="..\Sources\Math\FileFormat.AForge.Math.NetStandard.csproj" />
+  </ItemGroup>
+
+</Project>
