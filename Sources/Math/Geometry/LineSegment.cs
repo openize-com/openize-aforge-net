@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard.Geometry
+namespace Openize.AForge.Math.NetStandard.Geometry
 {
     using System;
     using Core.NetStandard;

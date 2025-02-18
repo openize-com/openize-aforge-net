@@ -13,9 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sources\Core\FileFormat.AForge.Core.NetStandard.csproj" />
-    <ProjectReference Include="..\Sources\imaging\FileFormat.AForge.Imaing.NetStandard.csproj" />
-    <ProjectReference Include="..\Sources\Math\FileFormat.AForge.Math.NetStandard.csproj" />
+    <ProjectReference Include="..\Sources\Core\Openize.AForge.Core.NetStandard.csproj" />
+    <ProjectReference Include="..\Sources\Imaging\Openize.AForge.Imaging.NetStandard.csproj" />
+    <ProjectReference Include="..\Sources\Math\Openize.AForge.Math.NetStandard.csproj" />
   </ItemGroup>
 
 </Project>

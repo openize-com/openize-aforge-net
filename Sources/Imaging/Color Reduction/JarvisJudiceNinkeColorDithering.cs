@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Color_Reduction
+namespace Openize.AForge.Imaging.NetStandard.Color_Reduction
 {
     /// <summary>
     /// Color dithering using Jarvis, Judice and Ninke error diffusion.

@@ -1,4 +1,4 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Tests
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Tests
 {
     using Core.NetStandard;
     using NUnit.Framework;

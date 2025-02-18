@@ -9,7 +9,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Other
+namespace Openize.AForge.Imaging.NetStandard.Filters.Other
 {
     using System.Collections.Generic;
     using System.Drawing;

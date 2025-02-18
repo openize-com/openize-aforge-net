@@ -9,7 +9,7 @@
 // http://www.codeproject.com/bitmap/cximage.asp
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Other
+namespace Openize.AForge.Imaging.NetStandard.Filters.Other
 {
     using System;
     using System.Collections.Generic;

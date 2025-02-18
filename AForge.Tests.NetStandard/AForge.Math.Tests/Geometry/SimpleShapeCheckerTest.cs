@@ -1,9 +1,9 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Math.Tests.Geometry
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Math.Tests.Geometry
 {
     using System.Collections.Generic;
     using Core.NetStandard;
-    using FileFormat.AForge.Math.NetStandard.Geometry;
     using NUnit.Framework;
+    using Openize.AForge.Math.NetStandard.Geometry;
 
     [TestFixture]
     public class SimpleShapeCheckerTest

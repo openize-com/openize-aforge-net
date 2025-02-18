@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Morphology.Specific_Optimizations
+namespace Openize.AForge.Imaging.NetStandard.Filters.Morphology.Specific_Optimizations
 {
     using System.Collections.Generic;
     using System.Drawing;

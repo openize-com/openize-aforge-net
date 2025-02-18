@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard.Metrics
+namespace Openize.AForge.Math.NetStandard.Metrics
 {
     /// <summary>
     /// Interface for similarity algorithms.

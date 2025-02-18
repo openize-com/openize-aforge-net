@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard
+namespace Openize.AForge.Imaging.NetStandard
 {
     using System;
     using System.Collections.Generic;

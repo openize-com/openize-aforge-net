@@ -5,7 +5,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.HSL_Filters
+namespace Openize.AForge.Imaging.NetStandard.Filters.HSL_Filters
 {
     using System.Collections.Generic;
     using System.Drawing;

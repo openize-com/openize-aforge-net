@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Textures
+namespace Openize.AForge.Imaging.NetStandard.Textures
 {
     using System.Drawing;
     using System.Drawing.Imaging;

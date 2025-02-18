@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard.Random
+namespace Openize.AForge.Math.NetStandard.Random
 {
     using System;
 

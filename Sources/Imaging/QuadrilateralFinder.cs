@@ -7,7 +7,7 @@
 //
 
 
-namespace FileFormat.AForge.Imaing.NetStandard
+namespace Openize.AForge.Imaging.NetStandard
 {
     using System.Collections.Generic;
     using System.Drawing;

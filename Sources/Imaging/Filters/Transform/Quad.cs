@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Transform
+namespace Openize.AForge.Imaging.NetStandard.Filters.Transform
 {
     using System.Collections.Generic;
     using Core.NetStandard;

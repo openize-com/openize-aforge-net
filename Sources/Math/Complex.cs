@@ -9,7 +9,7 @@
 // israel.lot@gmail.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard
+namespace Openize.AForge.Math.NetStandard
 {
     using System;
     using System.Runtime.Serialization;

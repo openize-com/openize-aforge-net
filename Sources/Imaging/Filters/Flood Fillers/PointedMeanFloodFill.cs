@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Flood_Fillers
+namespace Openize.AForge.Imaging.NetStandard.Filters.Flood_Fillers
 {
     using System;
     using System.Collections.Generic;

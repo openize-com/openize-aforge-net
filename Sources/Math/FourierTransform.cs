@@ -9,7 +9,7 @@
 // http://www.exocortex.org/dsp/
 //
 
-namespace FileFormat.AForge.Math.NetStandard
+namespace Openize.AForge.Math.NetStandard
 {
     using System;
 

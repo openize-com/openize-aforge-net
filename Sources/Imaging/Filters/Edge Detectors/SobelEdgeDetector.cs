@@ -5,7 +5,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Edge_Detectors
+namespace Openize.AForge.Imaging.NetStandard.Filters.Edge_Detectors
 {
     using System;
     using System.Collections.Generic;

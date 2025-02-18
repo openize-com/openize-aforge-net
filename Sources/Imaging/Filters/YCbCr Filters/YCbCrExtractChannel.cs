@@ -5,7 +5,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.YCbCr_Filters
+namespace Openize.AForge.Imaging.NetStandard.Filters.YCbCr_Filters
 {
     using System;
     using System.Collections.Generic;

@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Complex_Filters
+namespace Openize.AForge.Imaging.NetStandard.Complex_Filters
 {
     using System;
     using Core.NetStandard;

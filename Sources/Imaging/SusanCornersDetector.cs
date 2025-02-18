@@ -8,7 +8,7 @@
 // Copyright © Frank Nagl, 2007
 // admin@franknagl.de
 //
-namespace FileFormat.AForge.Imaing.NetStandard
+namespace Openize.AForge.Imaging.NetStandard
 {
     using System.Collections.Generic;
     using System.Drawing;

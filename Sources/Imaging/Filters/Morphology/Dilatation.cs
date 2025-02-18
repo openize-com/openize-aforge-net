@@ -6,7 +6,7 @@
 // aforge.net@gmail.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Morphology
+namespace Openize.AForge.Imaging.NetStandard.Filters.Morphology
 {
     using System;
     using System.Collections.Generic;

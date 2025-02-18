@@ -1,11 +1,11 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Imaging.Tests
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Imaging.Tests
 {
     using System.Collections.Generic;
     using System.Drawing;
     using System.Drawing.Imaging;
     using Core.NetStandard;
-    using Imaing.NetStandard;
     using NUnit.Framework;
+    using Openize.AForge.Imaging.NetStandard;
 
     [TestFixture]
     public class UnmanagedImageTest

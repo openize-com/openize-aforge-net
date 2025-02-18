@@ -9,7 +9,7 @@
 // admin@franknagl.de
 // www.franknagl.de
 //
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Color_Segmentation
+namespace Openize.AForge.Imaging.NetStandard.Filters.Color_Segmentation
 {
     using System;
     using System.Collections.Generic;

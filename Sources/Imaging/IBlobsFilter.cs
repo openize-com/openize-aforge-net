@@ -5,7 +5,7 @@
 // Copyright © Andrew Kirillov, 2005-2010
 // andrew.kirillov@aforgenet.com
 
-namespace FileFormat.AForge.Imaing.NetStandard
+namespace Openize.AForge.Imaging.NetStandard
 {
     /// <summary>
     /// Interface for custom blobs' filters used for filtering blobs after

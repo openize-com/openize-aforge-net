@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Morphology
+namespace Openize.AForge.Imaging.NetStandard.Filters.Morphology
 {
     using System.Collections.Generic;
     using System.Drawing;

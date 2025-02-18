@@ -7,7 +7,7 @@
 // Original idea from CxImage
 // http://www.codeproject.com/bitmap/cximage.asp
 //
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Binarization
+namespace Openize.AForge.Imaging.NetStandard.Filters.Binarization
 {
     /// <summary>
     /// Dithering using Stucki error diffusion.

@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Base_classes
+namespace Openize.AForge.Imaging.NetStandard.Filters.Base_classes
 {
     using System.Collections.Generic;
     using System.Drawing;
