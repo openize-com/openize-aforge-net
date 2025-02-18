@@ -1,7 +1,7 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Math.Tests
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Math.Tests
 {
-    using FileFormat.AForge.Math.NetStandard;
     using NUnit.Framework;
+    using Openize.AForge.Math.NetStandard;
 
     [TestFixture]
     public class Vector3Test

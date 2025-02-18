@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard.Geometry
+namespace Openize.AForge.Math.NetStandard.Geometry
 {
     /// <summary>
     /// Enumeration of some basic shape types.

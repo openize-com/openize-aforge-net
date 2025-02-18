@@ -8,7 +8,7 @@
 // Original implementation by Maxim Saplin, 2012
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Smooting
+namespace Openize.AForge.Imaging.NetStandard.Filters.Smooting
 {
     using System;
     using System.Collections.Generic;

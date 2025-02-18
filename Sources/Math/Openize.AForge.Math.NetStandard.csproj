@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\FileFormat.AForge.Core.NetStandard.csproj" />
+    <ProjectReference Include="..\Core\Openize.AForge.Core.NetStandard.csproj" />
   </ItemGroup>
 
   <ItemGroup>

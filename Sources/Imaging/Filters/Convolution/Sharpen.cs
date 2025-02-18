@@ -5,7 +5,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Convolution
+namespace Openize.AForge.Imaging.NetStandard.Filters.Convolution
 {
 	/// <summary>
 	/// Sharpen filter

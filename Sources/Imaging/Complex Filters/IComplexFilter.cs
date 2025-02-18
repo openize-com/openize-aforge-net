@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Complex_Filters
+namespace Openize.AForge.Imaging.NetStandard.Complex_Filters
 {
     /// <summary>
     /// Image processing filter, which operates with Fourier transformed

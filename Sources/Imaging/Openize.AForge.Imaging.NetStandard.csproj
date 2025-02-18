@@ -14,12 +14,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aspose.Drawing" Version="$(DrwVersion)" />
+    <PackageReference Include="Aspose.Drawing" Version="[$(DrwVersion),)" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\FileFormat.AForge.Core.NetStandard.csproj" />
-    <ProjectReference Include="..\Math\FileFormat.AForge.Math.NetStandard.csproj" />
+    <ProjectReference Include="..\Core\Openize.AForge.Core.NetStandard.csproj" />
+    <ProjectReference Include="..\Math\Openize.AForge.Math.NetStandard.csproj" />
   </ItemGroup>
 
   <ItemGroup>

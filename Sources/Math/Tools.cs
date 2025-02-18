@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Math.NetStandard
+namespace Openize.AForge.Math.NetStandard
 {
     /// <summary>
     /// Set of tool functions.

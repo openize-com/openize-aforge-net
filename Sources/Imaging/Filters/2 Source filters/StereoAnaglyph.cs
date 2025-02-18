@@ -5,7 +5,7 @@
 // Copyright © Andrew Kirillov, 2005-2009
 // andrew.kirillov@aforgenet.com
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters._2_Source_filters
+namespace Openize.AForge.Imaging.NetStandard.Filters._2_Source_filters
 {
     using System.Collections.Generic;
     using System.Drawing;

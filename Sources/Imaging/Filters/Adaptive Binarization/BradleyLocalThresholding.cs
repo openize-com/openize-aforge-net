@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Adaptive_Binarization
+namespace Openize.AForge.Imaging.NetStandard.Filters.Adaptive_Binarization
 {
     using System;
     using System.Collections.Generic;

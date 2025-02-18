@@ -7,7 +7,7 @@
 // Original idea of the SharpenEx found in Paint.NET project
 // http://www.eecs.wsu.edu/paint.net/
 //
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Convolution
+namespace Openize.AForge.Imaging.NetStandard.Filters.Convolution
 {
     using System;
     using Math.NetStandard;

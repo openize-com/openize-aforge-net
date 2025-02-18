@@ -8,7 +8,7 @@
 // Copyright © Joan Charmant, 2008
 // joan.charmant@gmail.com
 //
-namespace FileFormat.AForge.Imaing.NetStandard
+namespace Openize.AForge.Imaging.NetStandard
 {
     using System;
     using System.Collections.Generic;

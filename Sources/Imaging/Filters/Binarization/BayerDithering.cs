@@ -5,7 +5,7 @@
 // andrew.kirillov@gmail.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Binarization
+namespace Openize.AForge.Imaging.NetStandard.Filters.Binarization
 {
     /// <summary>
 	/// Ordered dithering using Bayer matrix.

@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Core.NetStandard
+namespace Openize.AForge.Core.NetStandard
 {
     using System;
     using System.Collections;

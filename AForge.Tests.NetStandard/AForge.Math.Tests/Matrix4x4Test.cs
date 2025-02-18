@@ -1,8 +1,8 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Math.Tests
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Math.Tests
 {
     using System;
-    using FileFormat.AForge.Math.NetStandard;
     using NUnit.Framework;
+    using Openize.AForge.Math.NetStandard;
 
     [TestFixture]
     public class Matrix4x4Test

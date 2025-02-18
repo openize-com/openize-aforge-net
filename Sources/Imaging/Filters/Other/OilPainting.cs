@@ -8,7 +8,7 @@
 // Original idea found in Paint.NET project
 // http://www.eecs.wsu.edu/paint.net/
 //
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Other
+namespace Openize.AForge.Imaging.NetStandard.Filters.Other
 {
     using System;
     using System.Collections.Generic;

@@ -5,7 +5,7 @@
 // andrew.kirillov@gmail.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Binarization
+namespace Openize.AForge.Imaging.NetStandard.Filters.Binarization
 {
     /// <summary>
     /// Base class for error diffusion dithering, where error is diffused to 

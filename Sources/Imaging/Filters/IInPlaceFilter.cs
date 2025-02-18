@@ -5,7 +5,7 @@
 // andrew.kirillov@gmail.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters
+namespace Openize.AForge.Imaging.NetStandard.Filters
 {
     using System.Drawing;
     using System.Drawing.Imaging;

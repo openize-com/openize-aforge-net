@@ -6,7 +6,7 @@
 // contacts@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Color_Reduction
+namespace Openize.AForge.Imaging.NetStandard.Color_Reduction
 {
     /// <summary>
     /// Base class for error diffusion color dithering, where error is diffused to 

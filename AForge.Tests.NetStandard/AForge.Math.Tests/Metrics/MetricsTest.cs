@@ -1,8 +1,8 @@
-﻿namespace FileFormat.AForge.Tests.NetStandard.AForge.Math.Tests.Metrics
+﻿namespace Openize.AForge.Tests.NetStandard.AForge.Math.Tests.Metrics
 {
     using System;
-    using FileFormat.AForge.Math.NetStandard.Metrics;
     using NUnit.Framework;
+    using Openize.AForge.Math.NetStandard.Metrics;
 
     [TestFixture]
     public class MetricsTest

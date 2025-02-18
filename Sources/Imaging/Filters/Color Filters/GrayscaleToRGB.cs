@@ -5,7 +5,7 @@
 // andrew.kirillov@aforgenet.comm
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Color_Filters
+namespace Openize.AForge.Imaging.NetStandard.Filters.Color_Filters
 {
     using System.Collections.Generic;
     using System.Drawing.Imaging;

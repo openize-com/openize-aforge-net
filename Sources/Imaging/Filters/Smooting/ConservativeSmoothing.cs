@@ -6,7 +6,7 @@
 // andrew.kirillov@aforgenet.com
 //
 
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Smooting
+namespace Openize.AForge.Imaging.NetStandard.Filters.Smooting
 {
     using System;
     using System.Collections.Generic;

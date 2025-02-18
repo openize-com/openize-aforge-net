@@ -10,7 +10,7 @@
 // Model and Parameterized Relaxation Labeling"
 // by Ioannis Matalas, Student Member, IEEE, Ralph Benjamin, and Richard Kitney
 //
-namespace FileFormat.AForge.Imaing.NetStandard.Filters.Smooting
+namespace Openize.AForge.Imaging.NetStandard.Filters.Smooting
 {
     using System.Collections.Generic;
     using System.Drawing;
